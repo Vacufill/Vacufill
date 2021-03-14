@@ -1,5 +1,5 @@
 ### ⚔️ Sharp like a blade, with powers like a mage.
-garbage lua & css programmer.
+garbage lua & css "programmer".
 <!--
 
 
