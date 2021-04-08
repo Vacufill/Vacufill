@@ -2,10 +2,10 @@
 
 **I'm a 13 year old programmer who enjoys coding.**
 
-- 🛠️ I'm currently working on [Moonray](https://github.com/BDStyles/moonray).
+- 🛠️ I'm currently working on [Moonray](https://github.com/BDStyles/moonray) and [Hydrite](https://github.com/BDStyles/hydrite).
 - ✍️ I'm currently learning **CSS**.
 - 🤝 I'm willing to get help from anyone who has experience and knowledge about **CSS**.
-- 🔮 My future project (s) are: [Hydrite](https://github.com/BDStyles/hydrite).
+- 🔮 My future project (s) are: none.
 - 📫 You can reach me using the links below or add my discord - `ryonsharp#0525`.
 
 **Links**
