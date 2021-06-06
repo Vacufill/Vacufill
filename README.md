@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ryonnn)
 
-Hi there 👋, I'm Ry. I used to program in Lua via Roblox but I sort of took a break and I forgot almost everything related to scripting lmao, so now I just make themes for fun since thats what I like doing, I'm starting to make styles for specific websites since I have a bit of CSS experience by making Discord themes.
+Just a theme developer with intermediate experience. 🎨
 
 # My GitHub Stats
 ![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=Pulverism&show_icons=true&theme=radical)
