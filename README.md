@@ -3,7 +3,7 @@
 Just a theme developer with intermediate experience. 🎨
 
 # My GitHub Stats
-![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=Pulverism&show_icons=true&theme=radical)
+![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=pulvest&show_icons=true&theme=radical)
 
 # Projects
 Image | Description
