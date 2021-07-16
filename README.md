@@ -14,7 +14,6 @@
 ![copywheeI’s statistics.](https://github-readme-stats.vercel.app/api?username=copywheeI&show_icons=true&theme=radical&hide_border=true)
 </details>
 
-- repo inspired by [teidesu's.](https://github.com/teidesu)
 <!-- e | e
 https://github.com/rysworldd
 
