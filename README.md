@@ -1,6 +1,3 @@
-repos ;
-  - [accurate-amoled](https://github.com/voidnyrox/accurate-amoled), a discord theme that tries to emulate AMOLED mode.
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
 
 <!-- content | content
