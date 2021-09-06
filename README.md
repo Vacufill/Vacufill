@@ -1,8 +1,7 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
+repos ;
+  - [accurate-amoled](https://github.com/voidnyrox/accurate-amoled), a discord theme that tries to emulate AMOLED mode.
 
-![](https://komarev.com/ghpvc/?username=ryonnn)
-  
-[![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuicontrol&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556120718669119499)](https://discord.com/users/556120718669119499)
 
 <!-- content | content
 
@@ -11,6 +10,10 @@
 ------------ | ------------ | ------------
 [GitHub](https://github.com/vampclipse) | [Twitter](https://twitter.com/vampclipse) | [Discord Community](https://discord.gg/5hqReEDFJp)
 ![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
+
+![](https://komarev.com/ghpvc/?username=ryonnn)
+  
+[![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuicontrol&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ```ruby
 ^ ▬▬ι═══════ﺤ
