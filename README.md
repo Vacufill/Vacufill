@@ -1,4 +1,8 @@
-<h2 align="center">🎨 Discord theme developer</h3>
+<p align="center">
+  <img width="430" height="220" src="https://user-images.githubusercontent.com/72931279/132425656-ffeff398-2e3b-4ede-a331-c3491a370784.jpg">
+</p>
+
+-------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img width="430" height="220" src="https://lanyard-profile-readme.vercel.app/api/556120718669119499">
