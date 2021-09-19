@@ -1,6 +1,6 @@
-<h1 align=“center”>🌹 Rosenyrox</h1>
+<h1 align="center">🌹 Rosenyrox</h1>
 
-<p align=“center”>Your average coder who starts things but never finishes them.</p>
+<p>I code things and never finish them.</p>
 
 -------------------------------------------------------------------------------------------------------
 
